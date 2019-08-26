@@ -1,3 +1,19 @@
 i.icon {
     font-size: 2em;
 }
+
+body {
+    background: #D5D5D5;
+}
+
+#newForm {
+    background: #6D7993;
+}
+
+#button {
+    background: #96858F;
+}
+
+#navbar {
+    background: #9099A2;
+}
