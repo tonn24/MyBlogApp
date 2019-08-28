@@ -1,0 +1,54 @@
+body {
+    background: #D5D5D5;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.meta span{
+    font-size: 15px;
+}
+
+#header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.content span {
+    font-size: 15px;
+}
+
+i.icon {
+    font-size: 2em;
+}
+
+
+#newForm {
+    background: #9099A2;
+    
+}
+
+#button {
+    background: #96858F;
+}
+
+#navbar {
+    background: #6D7993;
+}
+
+#delete {
+    display: inline;
+}
+
+#delete_button {
+    background-color: rgba(236, 100, 75, 1);
+}
+
+#edit_button {
+    background-color: rgba(247, 202, 24, 1);
+}
+
+#readMoreButton {
+    background: #96858F;
+}
+
