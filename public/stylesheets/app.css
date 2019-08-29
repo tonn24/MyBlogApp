@@ -2,6 +2,10 @@ body {
     background: #D5D5D5;
 }
 
+* {
+    font-family: 'Chilanka', cursive;
+}
+
 .description {
     font-size: 20px;
 }
@@ -13,7 +17,13 @@ body {
 #header {
     text-align: center;
     margin-bottom: 25px;
+    font-family: 'Chilanka', cursive;
 }
+
+#titleHeader {
+    font-family: 'Chilanka', cursive;
+}
+
 .content span {
     font-size: 15px;
 }
