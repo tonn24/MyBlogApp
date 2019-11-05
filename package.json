@@ -25,7 +25,7 @@
     "method-override": "^3.0.0",
     "mongo": "^0.1.0",
     "mongod": "^2.0.0",
-    "mongoose": "^5.6.10",
+    "mongoose": "^5.7.5",
     "sanitizer": "^0.1.3"
   }
 }
